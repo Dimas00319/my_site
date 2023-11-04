@@ -772,6 +772,7 @@ header {
   padding: 80px 96px;
   height: 312px;
   border-bottom: 1px solid black;
+  padding-bottom: 50px;
 }
 
 .footer__logo {
