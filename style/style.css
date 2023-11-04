@@ -766,7 +766,7 @@ header {
 
 .footer {
   display: grid;
-  grid-template-columns: 219px 98px 160px 75px 85px;
+  grid-template-columns: 150px 98px 260px 75px 85px;
   justify-content: center;
   gap: 150px;
   padding: 80px 96px;
